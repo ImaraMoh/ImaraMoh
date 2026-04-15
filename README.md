@@ -1,15 +1,17 @@
 # Hi 👋 I'm Imara Mohideen
 
-🎓 **Computer Engineering Undergraduate**
-💻 **Software Engineer | Mobile Developer | Web Developer**
+💻 **Full Stack Developer Intern | InforaTech**
+🎓 *4th Year Computer Engineering Undergraduate*
 
 ---
 
 ## 🚀 About Me
 
-I am a 3rd year Computer Engineering undergraduate with strong skills in **Software engineering, Full-stack development, Mobile and Web development**.I work on building applications integrating modern web, mobile, and backend technologies, including interactive web apps, mobile-first applications, and cloud-integrated systems.
+I’m a passionate Computer Engineering undergraduate who recently started my journey as a Full Stack Developer Intern at InforaTech.
 
-I focus on applying my software development and full-stack skills to solve complex problems, build scalable and interactive applications, and explore innovative technologies.
+I have a strong foundation in software engineering, full-stack development, and mobile & web application development. I enjoy building practical, user-focused solutions by integrating modern frontend, backend, and cloud technologies.
+
+I’m particularly interested in developing scalable, interactive applications and continuously exploring new technologies to improve my skills and real-world impact.
 
 ---
 
