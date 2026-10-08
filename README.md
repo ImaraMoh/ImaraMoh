@@ -1,6 +1,6 @@
 # Hi 👋 I'm Imara Mohideen
 
-💻 **Full Stack Developer Intern | InforaTech**
+💻 **Software Engineer Intern | NeirahTech**
 🎓 *4th Year Computer Engineering Undergraduate*
 
 ---
@@ -14,6 +14,10 @@ I have a strong foundation in software engineering, full-stack development, and 
 I’m particularly interested in developing scalable, interactive applications and continuously exploring new technologies to improve my skills and real-world impact.
 
 ---
+
+## Experience
+💻 **Full Stack Developer Intern | InforaTech - (April 2026 - September 2026)**
+
 
 ## 🛠️ Tech Stack
 
